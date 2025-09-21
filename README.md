@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
+  <img src="image/Gemini_Generated_Image_86nfah86nfah86nf" width="250" style="border-radius: 50%; border: 3px solid #4CAF50;" alt="Nir
 </p>
 
 <h1 align="center">Hi, I’m ⟪YOUR NAME⟫ <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
